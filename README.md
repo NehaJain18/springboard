@@ -34,17 +34,16 @@ Using data in file 'data/world_bank_projects.json'
   - Group by names and count the number of projects for each name (project theme) by counting the number of rows
   
 ###### Ans2. Top 10 Project Themes  
-    Environment and natural resources management	250
-    Rural development	                            216
-    Human development	                            210
-    Public sector governance	                    199
-    Social protection and risk management	        168
-    Financial and private sector development	    146
-    Social dev/gender/inclusion	                  130
-    Trade and integration	                        77
-    Urban development	                            50
-    Economic management	                          38
-
+    Environment and natural resources management    250
+    Rural development                               216
+    Human development                               210
+    Public sector governance                        199
+    Social protection and risk management           168
+    Financial and private sector development        146
+    Social dev/gender/inclusion                     130
+    Trade and integration                           77
+    Urban development                               50
+    Economic management                             38
 ###### Q3. Fill up missing names
   - Already done above
 
