@@ -40,10 +40,10 @@ Using data in file 'data/world_bank_projects.json'
     Public sector governance	                    199
     Social protection and risk management	        168
     Financial and private sector development	    146
-    Social dev/gender/inclusion	                    130
+    Social dev/gender/inclusion	                  130
     Trade and integration	                        77
     Urban development	                            50
-    Economic management	                            38
+    Economic management	                          38
 
 ###### Q3. Fill up missing names
   - Already done above
